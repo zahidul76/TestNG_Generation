@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="C:/Java/workspace/SDET-New/Testing_generation/src/test/java/TestCases/TestFunctionality.java(failed)">
+    <classes>
+      <class name="TestCases.TestFunctionality">
+        <methods>
+          <include name="tearDown"/>
+          <include name="logInTest"/>
+          <include name="setUp"/>
+          <include name="logOut"/>
+        </methods>
+      </class> <!-- TestCases.TestFunctionality -->
+    </classes>
+  </test> <!-- C:/Java/workspace/SDET-New/Testing_generation/src/test/java/TestCases/TestFunctionality.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->

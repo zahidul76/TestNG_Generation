@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Java/workspace/SDET-New/Testing_generation/src/test/java/TestCases/TestFunctionality.java">
+        <classes>
+            <class name="TestCases.TestFunctionality">
+                <methods>
+                    <include name="logInTest"/>
+                    <include name="logOut"/>
+                    <include name="titleTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
